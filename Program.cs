@@ -85,6 +85,15 @@ public class LinkedList
         //Hoàn thiện nội dung: in ra các nút là số nguyên tố
     }
 }
+public class Node2
+{
+
+}
+public class DoubleLinkedList
+{
+    //Cài đặt lại như slide
+    //Bổ sung các thủ tục FindMax, FindMin, Sum, Count
+}
 public class Program
 {
     public static void Main(string[] args)
