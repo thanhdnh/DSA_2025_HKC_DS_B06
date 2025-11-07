@@ -106,5 +106,8 @@ public class Program
         //System.Console.WriteLine("---after removing Second ---");
         //llist.Remove("Second");
         //llist.Print();
+
+
+        //Bài 3. Thử nghiệm với LinkedList trong NET
     }
 }
