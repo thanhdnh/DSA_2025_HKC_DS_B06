@@ -84,6 +84,7 @@ public class LinkedList
     {
         //Hoàn thiện nội dung: in ra các nút là số nguyên tố
     }
+    //Hoàn thiện: AddFirst, AddLast, AddBefore, AddAfter (Insert)
 }
 public class Node2
 {
@@ -93,6 +94,7 @@ public class DoubleLinkedList
 {
     //Cài đặt lại như slide
     //Bổ sung các thủ tục FindMax, FindMin, Sum, Count
+    //Bổ sung AddFirst, AddLast, AddBefore, AddAfter (Insert)
 }
 public class Program
 {
@@ -108,6 +110,6 @@ public class Program
         //llist.Print();
 
 
-        //Bài 3. Thử nghiệm với LinkedList trong NET
+        //Bài 3. Thử nghiệm với LinkedList trong NET (cuối slide): với mỗi nút là số và thử nghiệm với các bài toán tìm max, min, sum, count
     }
 }
